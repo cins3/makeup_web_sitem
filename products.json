@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "urunAdi": "Lifter Gloss",
-    "marka": "Maybelline",
-    "kategori": "Dudak",
-    "fiyat": 399,
-    "puan": 4.8,
-    "aciklama": "Parlak dudak görünümü sağlar.",
-    "resim": "images/lifter-gloss.jpg"
+    "urunAdi": "Make Me Blush Powder Stardust ",
+    "marka": "YVES SAINT LAURENT",
+    "kategori": "Allık",
+    "fiyat": 3600,
+    "puan": 4.6,
+    "aciklama": "allık.",
+    "resim": "images/YVES-SAINT-LAURENT.jpg"
   },
   {
     "id": 2,
