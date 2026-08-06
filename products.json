@@ -1,1 +1,102 @@
-
+[
+  {
+    "id": 1,
+    "urunAdi": "Lifter Gloss",
+    "marka": "Maybelline",
+    "kategori": "Dudak",
+    "fiyat": 399,
+    "puan": 4.8,
+    "aciklama": "Parlak dudak görünümü sağlar.",
+    "resim": "images/lifter-gloss.jpg"
+  },
+  {
+    "id": 2,
+    "urunAdi": "Sky High Maskara",
+    "marka": "Maybelline",
+    "kategori": "Göz",
+    "fiyat": 549,
+    "puan": 4.9,
+    "aciklama": "Kirpikleri uzatır ve hacim verir.",
+    "resim": "images/sky-high.jpg"
+  },
+  {
+    "id": 3,
+    "urunAdi": "Fit Me Fondöten",
+    "marka": "Maybelline",
+    "kategori": "Yüz",
+    "fiyat": 499,
+    "puan": 4.7,
+    "aciklama": "Doğal mat görünüm sağlar.",
+    "resim": "images/fit-me.jpg"
+  },
+  {
+    "id": 4,
+    "urunAdi": "Telescopic Maskara",
+    "marka": "L'Oréal Paris",
+    "kategori": "Göz",
+    "fiyat": 589,
+    "puan": 4.8,
+    "aciklama": "Uzun ve belirgin kirpikler.",
+    "resim": "images/telescopic.jpg"
+  },
+  {
+    "id": 5,
+    "urunAdi": "True Match Fondöten",
+    "marka": "L'Oréal Paris",
+    "kategori": "Yüz",
+    "fiyat": 629,
+    "puan": 4.9,
+    "aciklama": "Cilt tonuna uyum sağlar.",
+    "resim": "images/true-match.jpg"
+  },
+  {
+    "id": 6,
+    "urunAdi": "Soft Matte Lip Cream",
+    "marka": "NYX",
+    "kategori": "Dudak",
+    "fiyat": 449,
+    "puan": 4.8,
+    "aciklama": "Kadifemsi mat bitiş.",
+    "resim": "images/soft-matte.jpg"
+  },
+  {
+    "id": 7,
+    "urunAdi": "Lash Princess",
+    "marka": "Essence",
+    "kategori": "Göz",
+    "fiyat": 279,
+    "puan": 4.9,
+    "aciklama": "Hacimli kirpik görünümü.",
+    "resim": "images/lash-princess.jpg"
+  },
+  {
+    "id": 8,
+    "urunAdi": "Longstay Liquid Matte",
+    "marka": "Golden Rose",
+    "kategori": "Dudak",
+    "fiyat": 299,
+    "puan": 4.7,
+    "aciklama": "Kalıcı mat ruj.",
+    "resim": "images/golden-rose.jpg"
+  },
+  {
+    "id": 9,
+    "urunAdi": "Perfect Coverage",
+    "marka": "Flormar",
+    "kategori": "Yüz",
+    "fiyat": 389,
+    "puan": 4.6,
+    "aciklama": "Yüksek kapatıcılık sunar.",
+    "resim": "images/flormar.jpg"
+  },
+  {
+    "id": 10,
+    "urunAdi": "Show Your Power Maskara",
+    "marka": "Pastel",
+    "kategori": "Göz",
+    "fiyat": 259,
+    "puan": 4.5,
+    "aciklama": "Yoğun siyah kirpik görünümü.",
+    "resim": "images/pastel.jpg"
+  }
+]
